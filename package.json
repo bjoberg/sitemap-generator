@@ -1,0 +1,14 @@
+{
+  "name": "sitemap-generator",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "scripts": {
+    "start": "node sitemap-generator.js"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "sitemap-generator": "^7.5.2"
+  }
+}
